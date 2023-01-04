@@ -1,3 +1,7 @@
+# v1.5
+```diff
++ Sukurta nauja klasė "Žmogus". Praeitame darbe naudota klasė "duom" pakeista į išvestinę "Žmogus" klasę
+```
 # v1.2
 ```diff
 + Panaudota "Rule of three" naudojamai klasei
