@@ -1,3 +1,7 @@
+# v1.2
+```diff
++ Panaudota "Rule of three" naudojamai klasei
+```
 # v1.1
 ```diff
 + Pereita nuo struktūrų klasių
