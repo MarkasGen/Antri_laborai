@@ -3,9 +3,9 @@
 + Pereita nuo struktūrų klasių
 - Pašalintos 1 ir 2 List strategijos bei 1 Vector strategija
 ```
-## Testavimo rezultatai pasinaudojant klasėmis:
+## Testavimo rezultatai naudojant klasėmis:
 ![klases](https://user-images.githubusercontent.com/114186789/210524096-348659cd-365c-4a77-be0f-009bec4ffe26.png)
-## Testavimo rezultatai pasinaudojant struktūromis:
+## Testavimo rezultatai naudojant struktūromis:
 ![struk](https://user-images.githubusercontent.com/114186789/210524213-3d78564c-5dcd-4f62-87f3-f1476e5210e5.png)
 ## Programos greitis su O1 flagu:
 ![o1](https://user-images.githubusercontent.com/114186789/210524289-e088a5b2-382c-4dac-8895-663ccc59df15.png)
